@@ -1,0 +1,24 @@
+
+*pzn
+https://youtu.be/_ZSF4BYBVus
+https://youtu.be/i_FJBOKCRJQ
+
+https://youtu.be/GmPHy-Uye_4
+https://youtu.be/9cgfEP5hgOY
+https://youtu.be/KUk6k865Vgg
+
+https://code.tutsplus.com/id/tutorials/kotlin-from-scratch-classes-and-objects--cms-29590
+https://medium.com/@pratamawijaya/menulis-singleton-pattern-kotlin-290d05b9136d
+
+
+
+*additional
+https://medium.com/androiddevelopers/the-one-and-only-object-5dfd2cf7ab9b
+https://www.baeldung.com/kotlin/objects
+
+
+*conclusion
+Object declaration dan Companion Object adalah sama, namun object dibuat secara independent sementara
+companion object dibuat di dalam class.
+Singleton Pattern
+Sebuah pattern yang membatasi suatu object hanya memiliki satu instance saja dan satu cara akses ke instance tersebut.
