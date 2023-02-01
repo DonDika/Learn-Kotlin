@@ -5,8 +5,9 @@ package basic.extensionfunction
   extension function:
   menambahkan function pada tipe data yang sudah ada.
   bukan function yang sudah pada sebuah class atau interface.
-  bukan memodifikasi pada class aslinya, sehingga tidak ada perubahan yang terjadi pada class aslinya.
-  hanyal sebuah function bantuan atau tambahan.
+  bukan memodifikasi pada class aslinya atau yang sudah ada,
+  sehingga tidak ada perubahan yang terjadi pada class aslinya.
+  hanya sebuah function bantuan atau tambahan.
   mirip seperti helper function.
 */
 
@@ -30,7 +31,7 @@ private fun Student.sayHello(name: String){
 }
 
 private fun Teacher.sayHai(guys: String){
-    //tidak bisa mengakses data private dari class tersebut
+    // tidak bisa mengakses data private dari class tersebut
     //println("Hello $guys, my name ${this.name} I am teaching ${this.course}")
     println("Hello $guys, my name ${this.name} I am teaching..")
 }
